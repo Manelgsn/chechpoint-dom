@@ -1,0 +1,42 @@
+.logo {
+text-align: center;
+font-family: Work Sans, Arial, sans-serif;
+font-weight: initial;
+color: #00b39b;
+margin-top: 20px;
+display: flex;
+justify-content: space-around;
+}
+
+.main-nav{
+background-color: antiquewhite;
+text-align: center;
+display: flex;
+justify-content: space-around;
+}
+
+.ul {
+list-style: none;
+display: flex;
+justify-content: space-around;
+width: 40%;
+}
+.header {
+
+
+width: 100%;
+position: fixed;
+top: 0;
+left: 0;
+height: 50px;
+}
+
+.bloc{
+    display: flex;
+    flex-direction: column;
+}
+section{
+    margin:100px auto 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
